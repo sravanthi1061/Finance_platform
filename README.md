@@ -12,20 +12,20 @@ A smart, AI-powered finance management application that helps users track transa
 - Visual breakdown of your expenses by category.
 - Date-range filtering with instant updates.
   
-![Insights Dashboard](./assets/insights.png)
+![Insights Dashboard](./dashboard.png)
 
 ---
 ### 📷 **Receipt Scanning**
 - Upload receipts and let AI extract transaction details automatically.
 - Supports multiple formats: JPG, PNG, PDF.
 
-![Receipt Upload](./assets/receipt-upload.png)
+![Receipt Upload](./create-Transaction.png)
 
 ### 💳 **Transaction Management**
 - Add, edit, and delete transactions easily.
 - Categorize expenses & incomes for better tracking.
   
-![Transactions View](./assets/transactions.png)
+![Transactions View](./Analytics-table.png)
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** React, Tailwind CSS, ShadCN UI
