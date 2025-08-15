@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/header";
 import { ClerkProvider } from "@clerk/nextjs";
 import {Toaster} from 'sonner';
-import Chatbot from "@/components/chatbot";
+
 
 const inter=Inter({ subsets:["latin"] });
 
