@@ -1,4 +1,4 @@
-import { serve } from "inngest/next";
+/*import { serve } from "inngest/next";
 
 import { inngest } from "@/lib/inngest/client";
 import {
@@ -13,7 +13,7 @@ export const { GET, POST, PUT } = serve({
   functions: [
     processRecurringTransaction,
     /*triggerRecurringTransactions,
-    generateMonthlyReports,*/
+    generateMonthlyReports,
     checkBudgetAlerts,
   ],
-});
+});*/
