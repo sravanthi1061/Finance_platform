@@ -1,6 +1,6 @@
 # 📊 AI Finance Platform
 A smart, AI-powered finance management application that helps users track transactions, analyze spending habits, and get personalized financial insights.  
-![Main Page](/mainPage.png)
+![Main Page](public/mainPage.png)
 
 ## 🚀 Features
 - Create and manage accounts
@@ -12,20 +12,20 @@ A smart, AI-powered finance management application that helps users track transa
 - Visual breakdown of your expenses by category.
 - Date-range filtering with instant updates.
   
-![Insights Dashboard](./dashboard.png)
+![Insights Dashboard](public/dashboard.png)
 
 ---
 ### 📷 **Receipt Scanning**
 - Upload receipts and let AI extract transaction details automatically.
 - Supports multiple formats: JPG, PNG, PDF.
 
-![Receipt Upload](./create-Transaction.png)
+![Receipt Upload](public/create-Transaction.png)
 
 ### 💳 **Transaction Management**
 - Add, edit, and delete transactions easily.
 - Categorize expenses & incomes for better tracking.
   
-![Transactions View](./Analytics-table.png)
+![Transactions View](public/Analytics-table.png)
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** React, Tailwind CSS, ShadCN UI
